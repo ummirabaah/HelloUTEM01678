@@ -13,7 +13,7 @@
 			</td>
 			<td>
 				<h1 id = "message"><?php echo "Hello UMMI!"; ?></h1>
-				<p class='description'></p> Thanks for coming to<span class="blue">My PHP Starter Application</span>.
+				<p class='description'></p> Thanks for coming to asldskdjs <span class="blue">My PHP  Application</span>.
 			</td>
 		</tr>
 	</table>
