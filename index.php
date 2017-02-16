@@ -12,8 +12,8 @@
 				<img class = 'newappIcon' src='images/newapp-icon.png'>
 			</td>
 			<td>
-				<h1 id = "message"><?php echo "Hello World!"; ?></h1>
-				<p class='description'></p> Thanks for creating a <span class="blue">PHP Starter Application</span>.
+				<h1 id = "message"><?php echo "Hello UMMI!"; ?></h1>
+				<p class='description'></p> Thanks for coming to<span class="blue">My PHP Starter Application</span>.
 			</td>
 		</tr>
 	</table>
